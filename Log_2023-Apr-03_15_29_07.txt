@@ -1,0 +1,11 @@
+LogItem 1 , t=0.00s , START , this log file was created @ 2023-Apr-03 15:29:07
+LogItem 2 , t=0.00s , NORMAL , Test Example 1
+LogItem 3 , t=0.00s , COMMENT , Test Point 1: "varX" has a value of "2.5"
+LogItem 4 , t=0.00s , NORMAL , The program will run the SCED simulation
+LogItem 5 , t=0.00s , NORMAL , Start to read needed data from raw file
+LogItem 6 , t=0.00s , NORMAL , Finish reading needed data from raw file
+LogItem 7 , t=0.00s , NOTICE , The name of the case data file loaded is: 
+LogItem 8 , t=0.00s , MILESTONE , Start to load input data for pyomo simulation
+LogItem 9 , t=0.00s , MILESTONE , Finish loading input data for pyomo simulation - an instance has been created
+LogItem 10 , t=0.02s , ERROR , An ERROR has been identified: at file "AAA.py", related to variable "errorFind" with an unexpected value of "True"
+LogItem 11 , t=0.02s , END , this log file was closed @ 2023-Apr-03 15:29:07

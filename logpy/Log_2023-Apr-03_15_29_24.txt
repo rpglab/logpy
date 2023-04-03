@@ -1,0 +1,4 @@
+LogItem 1 , t=0.00s , START , this log file was created @ 2023-Apr-03 15:29:24
+LogItem 2 , t=0.00s , NORMAL , test l
+LogItem 3 , t=0.00s , MILESTONE , test 2
+LogItem 4 , t=0.00s , END , this log file was closed @ 2023-Apr-03 15:29:24
